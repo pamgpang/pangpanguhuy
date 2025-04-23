@@ -1,0 +1,229 @@
+#header{
+    width: 100%;
+    
+    background-color: darkblue;
+
+    position: fixed;
+    z-index: 2px;
+}
+#nama{
+    color: red;
+    padding: 20px;
+    
+}
+
+#menu-bar{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+#daftar-menu{
+    display: inline-flex;
+}
+#menu-ar{
+    display: none;
+}
+.menu{
+    color: aqua;
+    width: 130px;
+    list-style: none;
+    text-align: center;
+    
+}
+.menu:hover{   
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+  
+    
+}
+
+.menu:hover #menu-ar{
+    display: block;
+}
+.artikel{
+    list-style: none;
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: -40px;
+    text-align: center;
+    
+}
+.artikel:hover{
+    background-color: white;
+}
+#menu-sosmed{
+    list-style: none;
+}
+.menu-sosmed:hover #menu-sos{
+    display: block;
+}
+#menu-sos{
+    display: inline-flex;
+}
+.sosmed{
+    display: none;
+}
+.dalam{
+    width: 100%;;
+    height: 800px;
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+}
+.lapisan{
+    width: 80%;
+    height: 1650px;
+    background-color:bisque;
+    padding-left: 50px;`
+    justify-content: space-around;
+    padding-top: 160px;
+    margin-left: 385px;
+
+}
+.lapisan1{
+    width: 20%;
+    height: 1510px;
+   /* background-color: blue;*/
+    padding-top: 300px;
+    position: fixed;
+    margin-right: 1500px;
+    margin-top: 160px;
+    margin-bottom: 200px;
+    z-index: 99px;
+    
+}
+.bks{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+}
+.bks2{
+    width: 150px;
+    height: 150px;
+    background-color:white;
+    margin: auto;
+    border-bottom-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+    .bks2:hover{
+    width: 180px;
+    height: 150px;
+    background-color:white;
+    margin: auto;
+    border-bottom-right-radius: 180px;
+    border-bottom-left-radius: 180px;
+    border-top-left-radius: 180px;
+    border-top-right-radius: 180px;
+}
+.vidio{
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    padding-right: 30px;
+    padding-top: 20PX;
+
+}
+.vidio1{
+    width: 70%;
+    height: 400px;
+    padding-top: 20PX;
+    
+    
+}
+.info{
+    width: 50%;
+    height: 30px;
+    background-color: black;
+    margin: auto;
+    margin-top: 480px;
+    padding-bottom: 10px;
+}
+.dalam3{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+    margin: auto;
+}
+h3{
+    color: white;
+    text-align: center;
+    padding-top:20px;
+}
+.menu3{
+    background-color: blue;
+}
+.menu3:hover{
+    background-color:white;
+}
+.dalam4{
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    background-color: rebeccapurple;
+}
+.foto{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    
+}
+h4{
+    color: white;
+}
+h4:hover{
+    color: black;
+}
+.dalam5{
+    width: 100%;
+    height: 200px;
+}
+h2{
+    padding-top: 20px;
+    text-align: center;
+}
+.gbt{
+    width: 30%;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+}
+.tebel{
+    width: 80%;
+    height: 100px;
+    background-color: darkturquoise;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+.nama-atas{
+    width: 20%;
+    height: 50px;
+    background-color: red;
+}
+.nama-atas:hover{
+    width: 20%;
+    height: 50px;
+    background-color: yellow;
+}
+/*.img{
+    width:20%;
+    height: 200px;
+    background-color: violet;*/
+}
+.babi{
+    width: 20%;
+    height: 50px;
+    background-color: yellow;
+    margin-top: 50px;
+    margin: auto;
+}
+h4{
+    text-align: center;
+}

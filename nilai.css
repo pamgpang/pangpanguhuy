@@ -1,0 +1,183 @@
+.pembungkus{
+    width: 95%;
+    height: 2000px;
+    background-color: white;
+    margin: auto;
+}
+.jdl{
+    width: 100%;
+    height: 100px;
+    background-color: darkblue;
+    display: flex;
+}
+h2{
+    color: white;
+}
+.bungkus{
+    width: 100%;
+    height: 300px;
+    background-color: midnightblue;
+    padding-top: 20px;
+    display:flex;
+    padding-bottom: 20px;
+}
+.foto{
+    width: 13%;
+    height: 275px;
+    background-color: skyblue;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.tbl1{
+    width: 100px;
+    height: 30px;
+    background-color:white;
+    margin-left: 1000px;
+    margin-top: 30px;
+   
+}
+h3{
+    color: black;
+    text-align: center;
+   
+}
+.text{
+    width: 40%;
+    height: 275px;
+    background-color: skyblue;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.tbl{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.h{
+    color: black
+}
+.bungkus2{
+    width: 100%;
+    height: 400px;
+/*    background-color: skyblue;*/
+     padding-top: 20px;
+    display:flex;
+}
+.ft-diri{
+    width: 20%;
+    height: 400px;
+    background-color: skyblue;
+    margin-left: 300px;
+    
+    
+}
+.tentang{
+    width: 30%;
+    height: 400px;
+    background-color:skyblue;
+    margin-left: 20px;
+}
+.bungkus3{
+    width: 100%;
+    height: 400px;
+   /* background-color: blueviolet;*/
+    display: flex;
+    padding-top: 40px;
+}
+.vidio{
+    width: 40%;
+    height: 300px;
+    background-color: skyblue;
+    margin-left: 250px;
+    
+}
+.ket-vidio{
+    width: 20%;
+    height: 300px;
+    background-color: skyblue;
+    margin-left: 20px;
+}
+.bungkus4{
+    width: 100%;
+    height: 400px;
+   /* background-color:skyblue;*/
+}
+.my-frends{
+    width: 90%;
+    height: 50px;
+    background-color: deepskyblue;
+    margin: auto;
+}
+.bungkus-bulat{
+    width: 100%;
+    height: 150px;
+   /* background-color: red;*/
+    padding-top: 10px;
+    display:flex; 
+}
+.bulat{
+    width: 150px;
+    height: 150px;
+    background-color: skyblue;
+    border-bottom-right-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    margin-left: 50px;
+    margin: auto;
+}
+.teks5{
+    width: 100%;
+    height: 100px;
+    /*background-color:blue;*/
+    display: flex;
+    
+}
+.h{
+    width: 30%;
+    height: 100px;
+   /* background-color: royalblue;*/
+    margin: auto;
+    
+    
+}
+.bungkus-seluruh{
+    width: 75%;
+    height: 2100;
+    background-color: black;
+    margin: auto;
+    padding-top: 100px;
+}
+.vidio4{
+    width: 100%;
+    height: 300px;
+    background-color: skyblue;
+   
+}
+.ft-diri2{
+    width: 100%;
+    height: 400px;
+    background-color: skyblue;
+    
+    
+}
+.tt{
+    margin-top: 100px;
+}
+.bulat4{
+    width: 150px;
+    height: 150px;
+    background-color: skyblue;
+    border-bottom-right-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+   
+    margin: auto;
+}
